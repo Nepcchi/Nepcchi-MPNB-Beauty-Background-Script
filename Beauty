@@ -54,8 +54,8 @@ BackgroundList["beauty"] = { //Object name; Note the use of only lower case! Als
 	], //required; A list of the personality traits that can be chosen using the "Add Features" button on the second page. This list can be any length.
 
 	ideal : [
-		["Charm",
-			"Charm: I want to be the embodiment of all that is beautiful. (Any)"
+		["Beauty",
+			"Beauty: I want to be the embodiment of all that is beautiful. (Any)"
 		],
 		["Fun",
 			"Fun: I want to see how much my looks will let me get away with. (Chaotic)"
